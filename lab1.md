@@ -282,4 +282,4 @@ Key Takeaways
 - Avoid using unverified content from the Docker Store when developing your own images because these images may contain security vulnerabilities or possibly even malicious software.
 - Containers include everything they need to run the processes within them, so there is no need to install additional dependencies directly on your host.
 
-Continue on to [Lab 2](../lab2.md)
+Continue on to [Lab 2](https://github.com/timroster/docker101/blob/master/lab2.md)
